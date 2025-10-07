@@ -1,3 +1,4 @@
+// first page
 What is a P-Gel?
 Ingredients:
 
@@ -6,6 +7,9 @@ Ingredients:
 3. Gene Construct
 4. Lysate Supplement
 
+
+
+// second page
 What does the P-Gel Do?
 P-Gel stands for 'Protein-producing Gel'.
 
@@ -14,4 +18,13 @@ The P-Gel system:
 2.) Localizes transcription of genes into mRNA for efficiency
 3.) Allows for translation of mRNA into the protein of interest
 
+
+
+// third page
 Why Use a P-Gel?
+Protein yield in cellular systems is limited by energy losses from nonspecific side reactions.
+
+Our P-gel system may yield more because of:
+1.) Specific gene expression
+2.) Gene protection
+3.) Reusable system and longer expression time
